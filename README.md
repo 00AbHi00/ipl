@@ -1,5 +1,5 @@
 # ipl
-In this repository using python with libraries i have created a ipl simulator. I have also included proper documentation of how i achieved this task.   
+In this repository using python and libraries like csv and random i have created a ipl simulator.  
 
 this ipl simulation was created by Abhishek Silwal with a little help from ChatGpt.
 
